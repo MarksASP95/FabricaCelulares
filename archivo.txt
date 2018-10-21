@@ -1,0 +1,13 @@
+Duracion de dia (segundos): 1
+Dias entre despachos: 15
+Capacidad máxima almacen baterias: 25
+Capacidad máxima almacen pantallas: 30
+Capacidad máxima almacen cables: 35
+Cantidad inicial de productores de baterias: 2
+Cantidad inicial de productores de pantallas: 3
+Cantidad inicial de productores de cables: 1
+Cantidad máxima de productores de baterias: 5
+Cantidad máxima de productores de pantallas: 4
+Cantidad máxima de productores de cables: 8
+Cantidad inicial de ensambladores: 3
+Cantidad máxima de ensambladores: 4
